@@ -279,7 +279,7 @@ function add(n1, n2) {
     let sum = n1 + n2;
     return sum;
 }
-console.log(add(35, 20));
+console.log(add(40, 10));
 
 let add1 = (n1, n2, n3) => n1 + n2 + n3;
 let resulttt = add1(15, 3, 6)
