@@ -28,6 +28,7 @@ console.log(names[3])
 let numbers = [16, 17, 19, 23, 45, 56]
 console.log(numbers.length)
 console.log(numbers[3])
+console.log(numbers[3])
 
 for (let i = 0; i < 6; i++) {
     console.log(numbers[i])
